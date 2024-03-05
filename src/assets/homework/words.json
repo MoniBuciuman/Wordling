@@ -1,0 +1,157 @@
+[
+  {
+    "guessWord": "b _ t",
+    "word": "boat",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "bl _ ",
+    "word": "blue",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "cl _ ",
+    "word": "clue",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "cr _ ",
+    "word": "cry",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "d _ ",
+    "word": "die",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "d _ ",
+    "word": "dew",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "elb _ ",
+    "word": "elbow",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "f _ d",
+    "word": "food",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "g _ t",
+    "word": "goat",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "h _ ",
+    "word": "high",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "l _ ",
+    "word": "lie",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "l _ t",
+    "word": "light",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "m _ ",
+    "word": "my",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "m _ n",
+    "word": "moon",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "n _ ",
+    "word": "new",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "p _ ",
+    "word": "pie",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "pill _ ",
+    "word": "pillow",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "r _ ",
+    "word": "row",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "r _ d",
+    "word": "road",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "s _ t",
+    "word": "suit",
+    "options": ["ue", "ui", "ew"]
+  },
+  {
+    "guessWord": "s _ p",
+    "word": "soap",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "sk _ ",
+    "word": "sky",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "sp _ ",
+    "word": "spy",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "t _ ",
+    "word": "tie",
+    "options": ["y", "ie", "igh"]
+  },
+  {
+    "guessWord": "t _ d",
+    "word": "toad",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "wind _ ",
+    "word": "window",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "yell _ ",
+    "word": "yellow",
+    "options": ["oa", "ow", "a-e"]
+  },
+  {
+    "guessWord": "z _ ",
+    "word": "zoo",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "T _ sday",
+    "word": "Tuesday",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "gl _ ",
+    "word": "glue",
+    "options": ["ue", "oo", "ew"]
+  },
+  {
+    "guessWord": "n _ t",
+    "word": "night",
+    "options": ["y", "ie", "igh"]
+  }
+]
